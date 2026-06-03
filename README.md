@@ -15,3 +15,12 @@ This code will take the large file, and split the chosen column into discrete ch
 To use the notebook in Google collab:
 
 [https://colab.research.google.com/github/r-antoniomg/split-values-for-analytics/blob/main/2026-06-03-split-file-for-analytics.ipynb](https://colab.research.google.com/github/r-antoniomg/split-values-for-analytics/blob/main/2026-06-03-split-file-for-analytics.ipynb)
+
+## Related files
+
+You can test this notebook with either of the synthetic data files provided:
+
+* `2026-06-03-example-synthetic-data.csv`
+* `2026-06-03-example-synthetic-data.xlsx`
+
+**NOTE: The MMS Id and Barcode numbers provided are not real and will not work in Alma analytics. The files are meant to test the code for the purpose of splitting a large file into 9,999 value chunks.**
