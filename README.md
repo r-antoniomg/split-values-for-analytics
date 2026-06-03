@@ -14,4 +14,4 @@ This code will take the large file, and split the chosen column into discrete ch
 
 To use the notebook in Google collab:
 
-[https://colab.research.google.com/github/r-antoniomg/split-values-for-analytics/blob/main/tiles-by-hue.ipynb](https://colab.research.google.com/github/r-antoniomg/split-values-for-analytics/blob/main/2026-06-03-split-file-for-analytics.ipynb)
+[https://colab.research.google.com/github/r-antoniomg/split-values-for-analytics/blob/main/2026-06-03-split-file-for-analytics.ipynb](https://colab.research.google.com/github/r-antoniomg/split-values-for-analytics/blob/main/2026-06-03-split-file-for-analytics.ipynb)
